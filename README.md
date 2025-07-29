@@ -4,14 +4,6 @@
 
 ---
 
-## 📸 Demo
-
-> 🎯 **Live Demo:** _Coming Soon_  
-> 🖼️ **Screenshots:**
-
-![QuickMeet Home](./screenshots/home.png)
-![Meeting Room](./screenshots/room.png)
-
 ---
 
 ## 🛠️ Tech Stack
